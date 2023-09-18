@@ -1,10 +1,14 @@
-# Learn Repo Template
+# Learn Zig
 
 ## 本リポジトリの目的
-練習用リポジトリを目的や達成目標を持って実施できるようにするため
+Zigで遊びたい
 
 ## 本リポジトリの達成目標
-このテンプレートリポジトリを使って練習用リポジトリを作成されるようになる
+- [x] Zigのダウンロード
+  - [バイナリ展開により解決](https://zenn.dev/windchime_yk/scraps/22192c368c7435)
+- [x] Hello, World
+- [ ] "Learning Zig"
 
 ## 参考資料
-- 特になし
+- [始めましょう ⚡ Zig Programming Language](https://ziglang.org/ja/learn/getting-started/)
+- [Learning Zig](https://www.openmymind.net/learning_zig/)
